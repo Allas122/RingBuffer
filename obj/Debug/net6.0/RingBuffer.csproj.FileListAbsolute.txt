@@ -1,0 +1,15 @@
+D:\Develop\C#\RingBuffer\bin\Debug\net6.0\RingBuffer.deps.json
+D:\Develop\C#\RingBuffer\bin\Debug\net6.0\RingBuffer.dll
+D:\Develop\C#\RingBuffer\bin\Debug\net6.0\RingBuffer.pdb
+D:\Develop\C#\RingBuffer\obj\Debug\net6.0\RingBuffer.csproj.AssemblyReference.cache
+D:\Develop\C#\RingBuffer\obj\Debug\net6.0\RingBuffer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\C#\RingBuffer\obj\Debug\net6.0\RingBuffer.AssemblyInfoInputs.cache
+D:\Develop\C#\RingBuffer\obj\Debug\net6.0\RingBuffer.AssemblyInfo.cs
+D:\Develop\C#\RingBuffer\obj\Debug\net6.0\RingBuffer.csproj.CoreCompileInputs.cache
+D:\Develop\C#\RingBuffer\obj\Debug\net6.0\RingBuffer.dll
+D:\Develop\C#\RingBuffer\obj\Debug\net6.0\refint\RingBuffer.dll
+D:\Develop\C#\RingBuffer\obj\Debug\net6.0\RingBuffer.pdb
+D:\Develop\C#\RingBuffer\obj\Debug\net6.0\ref\RingBuffer.dll
+D:\Develop\C#\RingBuffer\bin\Debug\net6.0\RingBuffer.exe
+D:\Develop\C#\RingBuffer\bin\Debug\net6.0\RingBuffer.runtimeconfig.json
+D:\Develop\C#\RingBuffer\obj\Debug\net6.0\RingBuffer.genruntimeconfig.cache
