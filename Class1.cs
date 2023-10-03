@@ -30,7 +30,7 @@
             Pointer = Pointer.next;
             Pointer.Value = Value;
         }
-        public T put()
+        public T get()
         {
             Pointer = Pointer.next;
             return Pointer.Value;
