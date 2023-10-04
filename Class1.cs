@@ -2,18 +2,18 @@
 {
     public class RingBuffer<T>
     {
-        int Lenghth = 1;
+        int Length = 1;
         RingBufferElement<T> Pointer;
         RingBufferElement<T> First;
-        public RingBuffer(int lenghth) {
-            if (lenghth < 1)
+        public RingBuffer(int length) {
+            if (length < 1)
             {
-                throw new ArgumentException("Хуй короткий -",nameof(lenghth));
+                throw new ArgumentException("the length is too low: ", nameof(length));
             }
-            Lenghth = lenghth;
+            Length = length;
             RingBufferElement<T> first = new RingBufferElement<T>(default, null, null);
             RingBufferElement<T> pointer = first;
-            for (int i = 1; i < Lenghth; i++)
+            for (int i = 1; i < Length; i++)
             {
                 pointer.next = new RingBufferElement<T>(default, null, null);
                 pointer.next.previous = pointer; 
